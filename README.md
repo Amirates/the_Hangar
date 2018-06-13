@@ -4,7 +4,7 @@ The hangar is beginner friendly
 
 Multiple small air crafts are stored in the Hangar
 
-There are two classes HomeProject & AirCraft both are public 
+There are two classes HomeProject & AirCraft both are public and within the same file
 
 A class is just a blueprint...
 
